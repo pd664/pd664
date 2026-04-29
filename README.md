@@ -70,6 +70,15 @@ React.js · Next.js
 
 ---
 
+## 🧠 Engineering Focus
+
+- Designing scalable backend systems and APIs
+- Building production-ready AI systems (RAG, LLMs)
+- Optimizing performance and reducing latency
+- Working with distributed systems and real-time architectures
+
+---
+
 ## 🤝 Let's Connect
 
 - 💼 LinkedIn: https://linkedin.com/in/prateek-dixit-929834220  
