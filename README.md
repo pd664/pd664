@@ -70,13 +70,6 @@ React.js · Next.js
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pd664&show_icons=true&theme=radical)
-
-
----
-
 ## 🤝 Let's Connect
 
 - 💼 LinkedIn: https://linkedin.com/in/prateek-dixit-929834220  
