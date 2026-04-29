@@ -74,7 +74,6 @@ React.js · Next.js
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pd664&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pd664&layout=compact&theme=radical)
 
 ---
 
